@@ -1,0 +1,47 @@
+:root{--docum:#000000;} 
+
+.nomes{
+    color: white;
+    text-align: center;
+}
+h1{
+    color:white;
+    text-align: center;
+}
+h2{
+    color:white;
+    text-align: center;
+}
+body{
+    background-color:var(--docum);
+    font-family: "Slackside One", cursive;
+    font-weight: 50;
+    font-style: normal;
+}
+
+button{
+    text-align: center;
+}
+
+.contagem-regressiva{
+    text-align: center;
+    margin: 20px 30px 20px 30px;
+}
+.objetivos{
+    padding: 5px;
+}
+.select-1{
+    border-bottom: 3px solid red;
+}
+.aba-cont{
+    display: none;
+}
+.textos{
+    color: white;
+}
+.select-2{
+    display: block;
+}
+.contador{
+    color: white;
+}
